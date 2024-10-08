@@ -1,0 +1,1 @@
+DOMAIN = "asterisk_mbox"
